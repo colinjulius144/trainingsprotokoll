@@ -2,7 +2,7 @@
    Beim Ausliefern einer neuen Version die VERSION hochzählen,
    dann holt sich das iPhone den neuen Stand beim nächsten Start. */
 
-const VERSION = "v4";
+const VERSION = "v5";
 const CACHE = "trainingsprotokoll-" + VERSION;
 
 const ASSETS = [
